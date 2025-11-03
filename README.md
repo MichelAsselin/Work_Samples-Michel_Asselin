@@ -4,15 +4,12 @@ Welcome,
 This repository contains sample data analysis projects demonstrating Python, SQL, and data storytelling skills.
 
 TL;DR
-- 4 polished projects showing: data cleaning & ETL, exploratory data analysis & visualization, SQL analysis, and storytelling with actionable insights.
+- Polished projects showing: data cleaning & ETL, exploratory data analysis & visualization, SQL analysis, and storytelling with actionable insights.
 - Each project contains a short summary, reproducibility instructions, and a final "Key takeaways" section.
 
 Contents
 - projects/
   - project-1-name/ (notebook + project README)
-  - project-2-name/
-  - project-3-name/
-  - project-4-name/
 
 How to view/run the notebooks
 - Quick view: open any notebook on GitHub or use nbviewer.
@@ -34,8 +31,8 @@ Project checklist (for each project)
 
 Contact
 - GitHub: https://github.com/MichelAsselin
-- LinkedIn: <your-linkedin-url>
-- Email: <your-email>
+- [LinkedIn](https://www.linkedin.com/in/michel-asselin/)
+- Email: michelasselin972@gmail.com
 
 Notes for reviewers
 - If you want me to run or polish a specific notebook, tell me which one and I can prepare a PR with a project-level README and a requirements.txt.
