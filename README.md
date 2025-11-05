@@ -10,7 +10,7 @@ This repository contains data analysis projects demonstrating Python, SQL, and d
 
 ## Contents
 - projects/
-  - project_1 - Superstore_Profitability_Analysis/ ([notebook](https://github.com/MichelAsselin/data-analysis-portfolio/blob/Superstore_Profitability_Analysis/Superstore_Profitability_Analysis.ipynb) + [project README](https://github.com/MichelAsselin/data-analysis-portfolio/blob/Superstore_Profitability_Analysis/README.md))
+  - [project_1](https://github.com/MichelAsselin/Work_Samples-Michel_Asselin/tree/Superstore_Profitability_Analysis) - Superstore_Profitability_Analysis/ ([notebook](https://github.com/MichelAsselin/data-analysis-portfolio/blob/Superstore_Profitability_Analysis/Superstore_Profitability_Analysis.ipynb) + [project README](https://github.com/MichelAsselin/data-analysis-portfolio/blob/Superstore_Profitability_Analysis/README.md))
 
 ## How to view/run the notebooks
 - Quick view: open any notebook on GitHub.
