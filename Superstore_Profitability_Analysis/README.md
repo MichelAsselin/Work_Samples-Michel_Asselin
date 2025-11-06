@@ -12,7 +12,7 @@ The objectives are to:
 
 The analysis covers the complete data analytics workflow, from data preparation and visualization to data-driven business recommendations.  
 
-This project was developed in Python (Google Colab environment). The notebook can be run end-to-end using the included dataset (_Sample - Superstore.csv_ found in [this branch](https://github.com/MichelAsselin/data-analysis-portfolio/blob/Superstore_Profitability_Analysis/Sample%20-%20Superstore.csv)). It runs without external setup beyond uploading the CSV.
+This project was developed in Python (Google Colab environment). The notebook can be run end-to-end using the included dataset (_Sample - Superstore.csv_ from the [data folder](https://github.com/MichelAsselin/Work_Samples-Michel_Asselin/tree/main/Superstore_Profitability_Analysis/data)). It runs without external setup beyond uploading the CSV.
 
 **Source**: Martin, Michael (October 27, 2022). Sample - Superstore Sales (Excel).xls. Tableau from Salesforce. Retrieved from: https://community.tableau.com/s/question/0D54T00000CWeX8SAL/sample-superstore-sales-excelxls
 
@@ -23,7 +23,7 @@ This project was developed in Python (Google Colab environment). The notebook ca
 **Modules**: pandas (2.2.2), matplotlib (3.10.0), seaborn (0.13.2), numpy (2.0.2). These modules were used for data cleaning, visualization, and statistical analysis.
 
 ## How to Run
-1. Download `Sample - Superstore.csv` from [Kaggle](https://www.kaggle.com/datasets/vivek468/superstore-dataset-final/data?select=Sample+-+Superstore.csv) or from [this branch](https://github.com/MichelAsselin/data-analysis-portfolio/blob/Superstore_Profitability_Analysis/Sample%20-%20Superstore.csv) and place it in the repo root or `data/`.
+1. Download `Sample - Superstore.csv` from [Kaggle](https://www.kaggle.com/datasets/vivek468/superstore-dataset-final/data?select=Sample+-+Superstore.csv) or from the [data folder](https://github.com/MichelAsselin/Work_Samples-Michel_Asselin/tree/main/Superstore_Profitability_Analysis/data) and place it in the repo root or `data/`.
 2. Install dependencies:
    pip install -r requirements.txt
 3. Open `Superstore_Profitability_Analysis.ipynb` and run the notebook.
