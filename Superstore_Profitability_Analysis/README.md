@@ -102,7 +102,7 @@ We developed an interactive **Power BI report** to complement the Python analysi
 The `.pbix` file (`PowerBI_Report/Superstore_Profitability_Report.pbix`) and screenshots of each page are included in this repository:
 - [Profitability Overview](https://github.com/MichelAsselin/Work_Samples-Michel_Asselin/blob/main/Superstore_Profitability_Analysis/PowerBI/Screenshots/Page1-Executive_Overview.png)  
 - [Discount Impact](https://github.com/MichelAsselin/Work_Samples-Michel_Asselin/blob/main/Superstore_Profitability_Analysis/PowerBI/Screenshots/Page2-Discount%26Profitability.png)  
-- [Segments & Regions](PowerBI_Report/Screenshots/Page3-Segments&Regions.png)
+- [Segments & Regions](https://github.com/MichelAsselin/Work_Samples-Michel_Asselin/blob/main/Superstore_Profitability_Analysis/PowerBI/Screenshots/Page3-Segments%26Regions.png)
 
 These visuals reinforce the notebook’s findings by enabling dynamic filtering by **Year**, **Region**, **Segment**, and **Category** and by exploring how **discounts** shape profitability across the United States.
 
