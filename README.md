@@ -10,12 +10,12 @@ This repository contains data analysis projects demonstrating Python, SQL, and d
 
 ## Contents
 - projects/
-  - [project_1](https://github.com/MichelAsselin/Work_Samples-Michel_Asselin/tree/Superstore_Profitability_Analysis) - Superstore_Profitability_Analysis/ ([notebook](https://github.com/MichelAsselin/data-analysis-portfolio/blob/Superstore_Profitability_Analysis/Superstore_Profitability_Analysis.ipynb) + [project README](https://github.com/MichelAsselin/data-analysis-portfolio/blob/Superstore_Profitability_Analysis/README.md))
+  - [project_1](https://github.com/MichelAsselin/Work_Samples-Michel_Asselin/tree/main/Superstore_Profitability_Analysis) - Superstore_Profitability_Analysis/ ([notebook](https://github.com/MichelAsselin/Work_Samples-Michel_Asselin/blob/main/Superstore_Profitability_Analysis/Analysis_Notebook/Superstore_Profitability_Analysis.ipynb) + [project README](https://github.com/MichelAsselin/Work_Samples-Michel_Asselin/blob/main/Superstore_Profitability_Analysis/README.md))
 
 ## How to view/run the notebooks
 - Quick view: open any notebook on GitHub.
 - Reproducible run (recommended):
-  1. Clone the repo with !git clone --branch <branch_name> https://github.com/MichelAsselin/data-analysis-portfolio.git
+  1. Clone the repo with !git clone https://github.com/MichelAsselin/data-analysis-portfolio.git
   2. Set up the environment:
       - Install dependencies: pip install -r requirements.txt
   3. Open notebooks: jupyter lab or run in Colab.
