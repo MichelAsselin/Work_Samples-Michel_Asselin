@@ -11,6 +11,7 @@ This repository contains data analysis projects demonstrating Python, SQL, and d
 ## Contents
 - projects/
   - [project_1](https://github.com/MichelAsselin/Work_Samples-Michel_Asselin/tree/main/Superstore_Profitability_Analysis) - Superstore_Profitability_Analysis/ ([notebook](https://github.com/MichelAsselin/Work_Samples-Michel_Asselin/blob/main/Superstore_Profitability_Analysis/Analysis_Notebook/Superstore_Profitability_Analysis.ipynb) + [project README](https://github.com/MichelAsselin/Work_Samples-Michel_Asselin/blob/main/Superstore_Profitability_Analysis/README.md))
+  - [project 2]() - Global Market Opportunities for Eversense 365 - CGM Demand and Adoption Insights  
 
 ## How to view/run the notebooks
 - Quick view: open any notebook on GitHub.
